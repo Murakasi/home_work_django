@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lesson_3',
+    'rest-framework',
+    'lLesson_DRF',
 ]
 
 MIDDLEWARE = [
